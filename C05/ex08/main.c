@@ -4,5 +4,5 @@ int	ft_ten_queens_puzzle(void);
 
 int main()
 {
-	printf("%d\n", ft_ten_queens_puzzle(void)); //724
+	printf("%d\n", ft_ten_queens_puzzle());
 }
